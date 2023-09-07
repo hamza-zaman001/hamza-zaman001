@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-zaman001&show_icons=true&locale=en" alt="hamza-zaman001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-zaman001&" alt="hamza-zaman001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-zaman001&theme=tokyonight_duo&hide_border=true" alt="hamza-zaman001" /></p>
